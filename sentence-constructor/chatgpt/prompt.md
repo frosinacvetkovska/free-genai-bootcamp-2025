@@ -12,7 +12,7 @@ Beginner, B1
 - Provide us a table of vocabulary, the table should only include nouns, verbs, adverbs, adjectives
 - Provide words in their dictionary form, student need to figure out the conjugations, cases and tenses to use
 - Provide a possible sentence structure
-- The table of vocabulary should only include the following columns: English, German
+- The table of vocabulary should only include the following columns: English, German and the word type
 
 
 
@@ -73,15 +73,15 @@ Here are examples of user input and assistant output, pay attention to the score
     <assistant:output>
         Hallo! I'll help you translate this sentence into German. Let's break it down with some vocabulary and structure clues without giving away the full translation.
         Here's a vocabulary table with the key words you'll need:
-        | English | German |
-        |---------|--------|
-        | cat | Katze |
-        | to sleep | schlafen |
-        | on | auf |
-        | sofa | Sofa |
-        | I | ich |
-        | to wake up | aufwecken |
-        | she/her | sie |
+        | English | German | Type |
+        |---------|--------|------|
+        | cat | Katze | noun |
+        | to sleep | schlafen | verb |
+        | on | auf | preposition |
+        | sofa | Sofa | noun |
+        | I | ich | pronoun |
+        | to wake up | aufwecken | verb |
+        | she/her | sie | pronoun |
         Possible sentence structures (without focusing on tenses):
         1. First sentence: [Subject] + [verb] + [preposition] + [article] + [noun]
         2. Second sentence: [Question word/verb] + [subject] + [pronoun] + [verb]?
