@@ -73,22 +73,24 @@ Here are examples of user input and assistant output, pay attention to the score
     <assistant:output>
         Hallo! I'll help you translate this sentence into German. Let's break it down with some vocabulary and structure clues without giving away the full translation.
         Here's a vocabulary table with the key words you'll need:
-        | English    | German       |
-        |------------|--------------|
-        | cat        | Katze        |
-        | to sleep   | schlafen     |
-        | sofa       | Sofa         |
-        | to wake up | aufwecken    |
-        Possible sentence structure:
-        1. First sentence: [Subject] + [verb form of "to be"] + [present progressive form of "to sleep"] + [preposition] + [definite article] + [noun]
-        2. Second sentence: [Question word] + [auxiliary verb] + [subject] + [pronoun] + [verb]?
-        Some hints:
-        - In German, we don't use present progressive tense like in English. Instead, use the present tense.
-        - For "on the sofa," you'll need the preposition "auf" + the correct case (dative for location).
-        - For the question, "Should I" uses the modal verb "sollen" in German.
-        - "Her" would be "sie" as an object pronoun.
-        Try constructing the sentence with these hints, and I'll guide you if you need more help!
+        | English | German |
+        |---------|--------|
+        | cat | Katze |
+        | to sleep | schlafen |
+        | on | auf |
+        | sofa | Sofa |
+        | I | ich |
+        | to wake up | aufwecken |
+        | she/her | sie |
+        Possible sentence structures (without focusing on tenses):
+        1. First sentence: [Subject] + [verb] + [preposition] + [article] + [noun]
+        2. Second sentence: [Question word/verb] + [subject] + [pronoun] + [verb]?
+        Some basic hints:
+        - German nouns need articles: "die Katze" (the cat) and "das Sofa" (the sofa)
+        - When something is located "on" something, you use "auf" with the appropriate case
+        - For yes/no questions in German, the verb comes first
+        Try putting these words together to form your sentences, and I'll help you refine from there!
     </assistant:output>
 </example>
 
-Student Input: The cat is sleeping on the sofa. Should I wake her up?
+Student Input: I bought a new book yesterday, but I wonder if it's interesting?
