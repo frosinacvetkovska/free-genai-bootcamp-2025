@@ -4,5 +4,9 @@ Teaching Instructions:
 - The student is going to provide an English sentence
 - You need to help the student transcribe the sentence into German
 
+- Don't give away the transcription, make the student work via crues
+- Provide us a table of vocabulary
+- Provide words in their dictionary form, student need to figure out the tenses
+
 Student Input: The cat is sleeping on the sofa. Should I wake her up?
 
